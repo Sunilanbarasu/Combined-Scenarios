@@ -56,9 +56,14 @@ As a working professional, I want to reschedule appointments, so that I avoid mi
 Riya, a 29-year-old marketing professional, begins feeling unwell at work. During her lunch break, she opens the hospital app and searches for a General Physician. The app shows available doctors and color-coded time slots. She feels relieved when she finds a 7:30 PM slot, which fits her schedule. She books the appointment and receives a confirmation and reminder notification. This reduces her stress and helps her plan the rest of her workday calmly.
 
 **Task Flow Diagram – Food Ordering App**
+
+
+
 <img width="267" height="960" alt="food_flow" src="https://github.com/user-attachments/assets/50eb48a9-612b-4d95-ae06-138ff1e00389" />
 
 
 **Site Map**
+
+
 <img width="267" height="960" alt="food_flow" src="https://github.com/user-attachments/assets/eaefe859-8b90-4eb9-a3de-22897d57a0f9" />
 
