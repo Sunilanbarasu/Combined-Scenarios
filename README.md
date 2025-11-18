@@ -53,7 +53,7 @@ As a working professional, I want to reschedule appointments, so that I avoid mi
 
 **Scenario**
 
-Riya, a 29-year-old marketing professional, begins feeling unwell at work. During her lunch break, she opens the hospital app and searches for a General Physician. The app shows available doctors and color-coded time slots. She feels relieved when she finds a 7:30 PM slot, which fits her schedule. She books the appointment and receives a confirmation and reminder notification. This reduces her stress and helps her plan the rest of her workday calmly.
+   Riya, a 29-year-old marketing professional, begins feeling unwell at work. During her lunch break, she opens the hospital app and searches for a General Physician. The app shows available doctors and color-coded time slots. She feels relieved when she finds a 7:30 PM slot, which fits her schedule. She books the appointment and receives a confirmation and reminder notification. This reduces her stress and helps her plan the rest of her workday calmly.
 
 **Task Flow Diagram – Food Ordering App**
 
@@ -67,3 +67,6 @@ Riya, a 29-year-old marketing professional, begins feeling unwell at work. Durin
 
 <img width="267" height="960" alt="food_flow" src="https://github.com/user-attachments/assets/eaefe859-8b90-4eb9-a3de-22897d57a0f9" />
 
+**Result**
+
+    By applying UX ideation and design methods, multiple solutions were proposed to improve hospital appointment booking. User needs were documented through user stories, a realistic usage scenario was created, a task flow was visualized, and a structured information architecture was developed. This process demonstrated how UX methods enhance usability and user experience in real-world applications.
