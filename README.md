@@ -69,4 +69,5 @@ As a working professional, I want to reschedule appointments, so that I avoid mi
 
 **Result**
 
-    By applying UX ideation and design methods, multiple solutions were proposed to improve hospital appointment booking. User needs were documented through user stories, a realistic usage scenario was created, a task flow was visualized, and a structured information architecture was developed. This process demonstrated how UX methods enhance usability and user experience in real-world applications.
+ 
+ By applying UX ideation and design methods, multiple solutions were proposed to improve hospital appointment booking. User needs were documented through user stories, a realistic usage scenario was created, a task flow was visualized, and a structured information architecture was developed. This process demonstrated how UX methods enhance usability and user experience in real-world applications.
